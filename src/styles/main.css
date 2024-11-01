@@ -1,5 +1,5 @@
 body{
-    cursor: url("/src/assets/cursor/yugicursor.png"), default;
+    cursor: url("src/assets/cursor/yugicursor.png"), default;
 }
 
 button,
@@ -7,7 +7,7 @@ a,
 ig:hover,
 button:hover,
 a:hover{
-    cursor: url("/src/assets/cursor/yamiyugicursorGLOW.png");
+    cursor: url("src/assets/cursor/yamiyugicursorGLOW.png");
 }
 
 /* Video */
