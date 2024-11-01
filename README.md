@@ -1,1 +1,1 @@
-# js.yugioh
+# https://iagodiasr.github.io/js.yugioh/
